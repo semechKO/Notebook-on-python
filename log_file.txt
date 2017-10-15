@@ -1,0 +1,264 @@
+HeadHunterSearchTests.py[LINE:13]# INFO     [2017-10-16 00:11:52,729]  SET UP STARTED...
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:11:54,806]  POST http://127.0.0.1:51818/session {"capabilities": {"alwaysMatch": {"browserName": "chrome", "platformName": "any"}, "firstMatch": [{}]}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+HeadHunterSearchTests.py[LINE:13]# INFO     [2017-10-16 00:12:12,586]  SET UP STARTED...
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:14,657]  POST http://127.0.0.1:51832/session {"capabilities": {"alwaysMatch": {"browserName": "chrome", "platformName": "any"}, "firstMatch": [{}]}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:16,381]  Finished Request
+HeadHunterSearchTests.py[LINE:22]# INFO     [2017-10-16 00:12:16,382]  SET UP FINISHED
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:16,385]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/url {"url": "https://hh.ru", "sessionId": "91412e5206862881dc88c5e572572306"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:30,362]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:30,364]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[1]/div/div[2]/select"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:30,424]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:30,426]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element/0.6745644028238884-1/click {"sessionId": "91412e5206862881dc88c5e572572306", "id": "0.6745644028238884-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:30,655]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:30,655]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[1]/div/div[2]/select/option[3]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:30,723]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:30,723]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element/0.6745644028238884-2/click {"sessionId": "91412e5206862881dc88c5e572572306", "id": "0.6745644028238884-2"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:30,849]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:30,851]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[3]/div/div[1]/input"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:30,908]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:30,910]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element/0.6745644028238884-3/value {"text": "\u043d\u043e\u0432\u044b\u0435 \u043e\u0431\u043b\u0430\u0447\u043d\u044b\u0435", "sessionId": "91412e5206862881dc88c5e572572306", "id": "0.6745644028238884-3", "value": ["\u043d", "\u043e", "\u0432", "\u044b", "\u0435", " ", "\u043e", "\u0431", "\u043b", "\u0430", "\u0447", "\u043d", "\u044b", "\u0435"]}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:31,167]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:31,167]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u041d\u0430\u0439\u0442\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:31,250]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:31,250]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/moveto {"sessionId": "91412e5206862881dc88c5e572572306", "element": "0.6745644028238884-4", "xoffset": 700, "yoffset": 50}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:31,311]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:31,312]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/click {"button": 0, "sessionId": "91412e5206862881dc88c5e572572306"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:34,424]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:34,424]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:34,559]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:34,562]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/url {"url": "https://hh.ru", "sessionId": "91412e5206862881dc88c5e572572306"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:39,826]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:39,828]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[1]/div/div[2]/select"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:39,976]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:39,977]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element/0.8897448234049279-1/click {"sessionId": "91412e5206862881dc88c5e572572306", "id": "0.8897448234049279-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:40,311]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:40,312]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[1]/div/div[2]/select/option[3]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:40,407]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:40,407]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element/0.8897448234049279-2/click {"sessionId": "91412e5206862881dc88c5e572572306", "id": "0.8897448234049279-2"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:40,654]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:40,655]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[3]/div/div[1]/input"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:40,713]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:40,716]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element/0.8897448234049279-3/value {"text": "\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438", "sessionId": "91412e5206862881dc88c5e572572306", "id": "0.8897448234049279-3", "value": ["\u041d", "\u043e", "\u0432", "\u044b", "\u0435", " ", "\u041e", "\u0431", "\u043b", "\u0430", "\u0447", "\u043d", "\u044b", "\u0435", " ", "\u0422", "\u0435", "\u0445", "\u043d", "\u043e", "\u043b", "\u043e", "\u0433", "\u0438", "\u0438"]}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:41,592]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:41,594]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u041d\u0430\u0439\u0442\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:41,628]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:41,630]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/moveto {"sessionId": "91412e5206862881dc88c5e572572306", "element": "0.8897448234049279-4", "xoffset": 700, "yoffset": 50}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:41,726]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:41,726]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/click {"button": 0, "sessionId": "91412e5206862881dc88c5e572572306"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:43,849]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:43,851]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:43,887]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:43,888]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:43,917]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:43,918]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element/0.15348867999154825-1/click {"sessionId": "91412e5206862881dc88c5e572572306", "id": "0.15348867999154825-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:47,559]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:47,561]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438, \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442, \u0442\u0435\u043b\u0435\u043a\u043e\u043c')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:47,642]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:47,644]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/execute {"sessionId": "91412e5206862881dc88c5e572572306", "args": [{"element-6066-11e4-a52e-4f735466cecf": "0.08217403215782793-1", "ELEMENT": "0.08217403215782793-1"}], "script": "arguments[0].scrollIntoView();"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:47,661]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:47,661]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438, \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442, \u0442\u0435\u043b\u0435\u043a\u043e\u043c')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:47,720]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:47,721]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/moveto {"sessionId": "91412e5206862881dc88c5e572572306", "element": "0.08217403215782793-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:47,871]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:47,872]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/click {"button": 0, "sessionId": "91412e5206862881dc88c5e572572306"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:47,944]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:47,946]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u0411\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u0438\u044f, \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0447\u0435\u0442, \u0444\u0438\u043d\u0430\u043d\u0441\u044b \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u044f')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,053]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,055]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/execute {"sessionId": "91412e5206862881dc88c5e572572306", "args": [{"element-6066-11e4-a52e-4f735466cecf": "0.08217403215782793-2", "ELEMENT": "0.08217403215782793-2"}], "script": "arguments[0].scrollIntoView();"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,111]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,112]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u0411\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u0438\u044f, \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0447\u0435\u0442, \u0444\u0438\u043d\u0430\u043d\u0441\u044b \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u044f')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,130]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,131]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/moveto {"sessionId": "91412e5206862881dc88c5e572572306", "element": "0.08217403215782793-2"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,197]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,197]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/click {"button": 0, "sessionId": "91412e5206862881dc88c5e572572306"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,232]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,232]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u041c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433, \u0440\u0435\u043a\u043b\u0430\u043c\u0430, PR')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,286]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,286]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/execute {"sessionId": "91412e5206862881dc88c5e572572306", "args": [{"element-6066-11e4-a52e-4f735466cecf": "0.08217403215782793-3", "ELEMENT": "0.08217403215782793-3"}], "script": "arguments[0].scrollIntoView();"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,305]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,305]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u041c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433, \u0440\u0435\u043a\u043b\u0430\u043c\u0430, PR')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,336]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,338]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/moveto {"sessionId": "91412e5206862881dc88c5e572572306", "element": "0.08217403215782793-3"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,411]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,411]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/click {"button": 0, "sessionId": "91412e5206862881dc88c5e572572306"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,437]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,438]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u0411\u0430\u043d\u043a\u0438, \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438, \u043b\u0438\u0437\u0438\u043d\u0433')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,484]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,486]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/execute {"sessionId": "91412e5206862881dc88c5e572572306", "args": [{"element-6066-11e4-a52e-4f735466cecf": "0.08217403215782793-4", "ELEMENT": "0.08217403215782793-4"}], "script": "arguments[0].scrollIntoView();"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,494]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,496]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u0411\u0430\u043d\u043a\u0438, \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438, \u043b\u0438\u0437\u0438\u043d\u0433')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,526]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,526]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/moveto {"sessionId": "91412e5206862881dc88c5e572572306", "element": "0.08217403215782793-4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,586]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,588]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/click {"button": 0, "sessionId": "91412e5206862881dc88c5e572572306"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,605]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,605]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e, \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f, \u043c\u0430\u0441\u0441-\u043c\u0435\u0434\u0438\u0430')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,663]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,664]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/execute {"sessionId": "91412e5206862881dc88c5e572572306", "args": [{"element-6066-11e4-a52e-4f735466cecf": "0.08217403215782793-5", "ELEMENT": "0.08217403215782793-5"}], "script": "arguments[0].scrollIntoView();"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,678]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,680]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e, \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f, \u043c\u0430\u0441\u0441-\u043c\u0435\u0434\u0438\u0430')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,707]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,709]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/moveto {"sessionId": "91412e5206862881dc88c5e572572306", "element": "0.08217403215782793-5"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,799]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,801]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/click {"button": 0, "sessionId": "91412e5206862881dc88c5e572572306"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,842]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,844]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'QA Automation Engineer')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:48,921]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:48,924]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/url {"url": "https://hh.ru", "sessionId": "91412e5206862881dc88c5e572572306"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:55,131]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:55,132]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[1]/div/div[2]/select"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:55,232]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:55,233]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element/0.20230056246670225-1/click {"sessionId": "91412e5206862881dc88c5e572572306", "id": "0.20230056246670225-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:55,651]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:55,653]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[1]/div/div[2]/select/option[3]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:55,744]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:55,746]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element/0.20230056246670225-2/click {"sessionId": "91412e5206862881dc88c5e572572306", "id": "0.20230056246670225-2"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:55,947]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:55,948]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[3]/div/div[1]/input"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:56,032]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:56,032]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element/0.20230056246670225-3/value {"text": "\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438", "sessionId": "91412e5206862881dc88c5e572572306", "id": "0.20230056246670225-3", "value": ["\u041d", "\u043e", "\u0432", "\u044b", "\u0435", " ", "\u041e", "\u0431", "\u043b", "\u0430", "\u0447", "\u043d", "\u044b", "\u0435", " ", "\u0422", "\u0435", "\u0445", "\u043d", "\u043e", "\u043b", "\u043e", "\u0433", "\u0438", "\u0438"]}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:56,717]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:56,717]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u041d\u0430\u0439\u0442\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:56,809]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:56,811]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/moveto {"sessionId": "91412e5206862881dc88c5e572572306", "element": "0.20230056246670225-4", "xoffset": 700, "yoffset": 50}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:56,910]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:56,911]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/click {"button": 0, "sessionId": "91412e5206862881dc88c5e572572306"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:58,878]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:58,878]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:59,062]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:59,063]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "xpath", "sessionId": "91412e5206862881dc88c5e572572306", "value": "//*[contains(text(),'\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:12:59,094]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:12:59,095]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element/0.19543050926365502-1/click {"sessionId": "91412e5206862881dc88c5e572572306", "id": "0.19543050926365502-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:13:02,335]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:13:02,336]  POST http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element {"using": "class name", "sessionId": "91412e5206862881dc88c5e572572306", "value": "b-employerpage-vacancies-region"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:13:02,450]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:13:02,450]  GET http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/element/0.8794899780143202-1/text {"sessionId": "91412e5206862881dc88c5e572572306", "id": "0.8794899780143202-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:13:02,562]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:13:02,565]  DELETE http://127.0.0.1:51832/session/91412e5206862881dc88c5e572572306/window {"sessionId": "91412e5206862881dc88c5e572572306"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:13:03,049]  Finished Request
+HeadHunterSearchTests.py[LINE:13]# INFO     [2017-10-16 00:55:25,951]  SET UP STARTED...
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:28,079]  POST http://127.0.0.1:52354/session {"capabilities": {"alwaysMatch": {"browserName": "chrome", "platformName": "any"}, "firstMatch": [{}]}, "desiredCapabilities": {"platform": "ANY", "browserName": "chrome", "version": "", "chromeOptions": {"args": [], "extensions": []}}}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:30,448]  Finished Request
+HeadHunterSearchTests.py[LINE:22]# INFO     [2017-10-16 00:55:30,450]  SET UP FINISHED
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:30,453]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/url {"url": "https://hh.ru", "sessionId": "34b72d1483b49dd3c428dea26649f3b4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:44,068]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:44,069]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[1]/div/div[2]/select"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:44,213]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:44,213]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element/0.9477871907758955-1/click {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "id": "0.9477871907758955-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:44,408]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:44,410]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[1]/div/div[2]/select/option[3]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:44,463]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:44,463]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element/0.9477871907758955-2/click {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "id": "0.9477871907758955-2"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:44,569]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:44,569]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[3]/div/div[1]/input"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:44,619]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:44,621]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element/0.9477871907758955-3/value {"text": "\u043d\u043e\u0432\u044b\u0435 \u043e\u0431\u043b\u0430\u0447\u043d\u044b\u0435", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "id": "0.9477871907758955-3", "value": ["\u043d", "\u043e", "\u0432", "\u044b", "\u0435", " ", "\u043e", "\u0431", "\u043b", "\u0430", "\u0447", "\u043d", "\u044b", "\u0435"]}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:44,831]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:44,832]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u041d\u0430\u0439\u0442\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:44,884]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:44,884]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/moveto {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "element": "0.9477871907758955-4", "xoffset": 700, "yoffset": 50}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:44,940]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:44,940]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/click {"button": 0, "sessionId": "34b72d1483b49dd3c428dea26649f3b4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:47,302]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:47,302]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:47,368]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:47,371]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/url {"url": "https://hh.ru", "sessionId": "34b72d1483b49dd3c428dea26649f3b4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:52,578]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:52,579]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[1]/div/div[2]/select"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:52,598]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:52,598]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element/0.09816750545245645-1/click {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "id": "0.09816750545245645-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:52,785]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:52,786]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[1]/div/div[2]/select/option[3]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:52,809]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:52,809]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element/0.09816750545245645-2/click {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "id": "0.09816750545245645-2"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:52,911]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:52,913]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[3]/div/div[1]/input"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:52,930]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:52,931]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element/0.09816750545245645-3/value {"text": "\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "id": "0.09816750545245645-3", "value": ["\u041d", "\u043e", "\u0432", "\u044b", "\u0435", " ", "\u041e", "\u0431", "\u043b", "\u0430", "\u0447", "\u043d", "\u044b", "\u0435", " ", "\u0422", "\u0435", "\u0445", "\u043d", "\u043e", "\u043b", "\u043e", "\u0433", "\u0438", "\u0438"]}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:53,426]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:53,427]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u041d\u0430\u0439\u0442\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:53,466]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:53,467]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/moveto {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "element": "0.09816750545245645-4", "xoffset": 700, "yoffset": 50}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:53,532]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:53,533]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/click {"button": 0, "sessionId": "34b72d1483b49dd3c428dea26649f3b4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:55,463]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:55,464]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:55,483]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:55,484]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:55,503]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:55,503]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element/0.02348175660081675-1/click {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "id": "0.02348175660081675-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:58,280]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:58,282]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u0418\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438, \u0438\u043d\u0442\u0435\u0440\u043d\u0435\u0442, \u0442\u0435\u043b\u0435\u043a\u043e\u043c')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:58,392]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:58,394]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/execute {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "args": [{"element-6066-11e4-a52e-4f735466cecf": "0.8049260278883599-1", "ELEMENT": "0.8049260278883599-1"}], "script": "arguments[0].scrollIntoView();"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:58,440]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:58,443]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/moveto {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "element": "0.8049260278883599-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:58,556]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:58,558]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/click {"button": 0, "sessionId": "34b72d1483b49dd3c428dea26649f3b4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:58,618]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:58,618]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u0411\u0443\u0445\u0433\u0430\u043b\u0442\u0435\u0440\u0438\u044f, \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0447\u0435\u0441\u043a\u0438\u0439 \u0443\u0447\u0435\u0442, \u0444\u0438\u043d\u0430\u043d\u0441\u044b \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u044f\u0442\u0438\u044f')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:58,700]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:58,701]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/execute {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "args": [{"element-6066-11e4-a52e-4f735466cecf": "0.8049260278883599-2", "ELEMENT": "0.8049260278883599-2"}], "script": "arguments[0].scrollIntoView();"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:58,783]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:58,785]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/moveto {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "element": "0.8049260278883599-2"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:58,871]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:58,871]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/click {"button": 0, "sessionId": "34b72d1483b49dd3c428dea26649f3b4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:58,913]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:58,913]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u041c\u0430\u0440\u043a\u0435\u0442\u0438\u043d\u0433, \u0440\u0435\u043a\u043b\u0430\u043c\u0430, PR')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:58,974]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:58,976]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/execute {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "args": [{"element-6066-11e4-a52e-4f735466cecf": "0.8049260278883599-3", "ELEMENT": "0.8049260278883599-3"}], "script": "arguments[0].scrollIntoView();"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:59,000]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:59,002]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/moveto {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "element": "0.8049260278883599-3"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:59,065]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:59,065]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/click {"button": 0, "sessionId": "34b72d1483b49dd3c428dea26649f3b4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:59,101]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:59,101]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u0411\u0430\u043d\u043a\u0438, \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438, \u043b\u0438\u0437\u0438\u043d\u0433')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:59,163]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:59,164]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/execute {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "args": [{"element-6066-11e4-a52e-4f735466cecf": "0.8049260278883599-4", "ELEMENT": "0.8049260278883599-4"}], "script": "arguments[0].scrollIntoView();"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:59,186]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:59,187]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/moveto {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "element": "0.8049260278883599-4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:59,269]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:59,269]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/click {"button": 0, "sessionId": "34b72d1483b49dd3c428dea26649f3b4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:59,285]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:59,285]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u0418\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e, \u0440\u0430\u0437\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f, \u043c\u0430\u0441\u0441-\u043c\u0435\u0434\u0438\u0430')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:59,342]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:59,344]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/execute {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "args": [{"element-6066-11e4-a52e-4f735466cecf": "0.8049260278883599-5", "ELEMENT": "0.8049260278883599-5"}], "script": "arguments[0].scrollIntoView();"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:59,361]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:59,361]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/moveto {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "element": "0.8049260278883599-5"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:59,428]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:59,430]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/click {"button": 0, "sessionId": "34b72d1483b49dd3c428dea26649f3b4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:59,461]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:59,463]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'QA Automation Engineer')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:55:59,526]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:55:59,529]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/url {"url": "https://hh.ru", "sessionId": "34b72d1483b49dd3c428dea26649f3b4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:04,927]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:04,928]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[1]/div/div[2]/select"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:05,727]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:05,729]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element/0.6947256177034391-1/click {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "id": "0.6947256177034391-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:06,118]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:06,119]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[1]/div/div[2]/select/option[3]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:06,217]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:06,217]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element/0.6947256177034391-2/click {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "id": "0.6947256177034391-2"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:06,447]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:06,448]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "html/body/div[1]/div[1]/div/div/div/div[2]/form[3]/div/div[1]/input"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:06,562]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:06,563]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element/0.6947256177034391-3/value {"text": "\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "id": "0.6947256177034391-3", "value": ["\u041d", "\u043e", "\u0432", "\u044b", "\u0435", " ", "\u041e", "\u0431", "\u043b", "\u0430", "\u0447", "\u043d", "\u044b", "\u0435", " ", "\u0422", "\u0435", "\u0445", "\u043d", "\u043e", "\u043b", "\u043e", "\u0433", "\u0438", "\u0438"]}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:07,280]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:07,282]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u041d\u0430\u0439\u0442\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:07,361]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:07,362]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/moveto {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "element": "0.6947256177034391-4", "xoffset": 700, "yoffset": 50}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:07,450]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:07,451]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/click {"button": 0, "sessionId": "34b72d1483b49dd3c428dea26649f3b4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:09,806]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:09,808]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:10,032]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:10,033]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "xpath", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "//*[contains(text(),'\u041d\u043e\u0432\u044b\u0435 \u041e\u0431\u043b\u0430\u0447\u043d\u044b\u0435 \u0422\u0435\u0445\u043d\u043e\u043b\u043e\u0433\u0438\u0438')]"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:10,079]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:10,081]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element/0.6956237193199273-1/click {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "id": "0.6956237193199273-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:12,484]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:12,486]  POST http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element {"using": "class name", "sessionId": "34b72d1483b49dd3c428dea26649f3b4", "value": "b-employerpage-vacancies-region"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:12,586]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:12,588]  GET http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/element/0.611958507968247-1/text {"sessionId": "34b72d1483b49dd3c428dea26649f3b4", "id": "0.611958507968247-1"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:12,687]  Finished Request
+remote_connection.py[LINE:478]# DEBUG    [2017-10-16 00:56:12,690]  DELETE http://127.0.0.1:52354/session/34b72d1483b49dd3c428dea26649f3b4/window {"sessionId": "34b72d1483b49dd3c428dea26649f3b4"}
+remote_connection.py[LINE:565]# DEBUG    [2017-10-16 00:56:13,384]  Finished Request
